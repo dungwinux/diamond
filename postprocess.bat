@@ -1,0 +1,1 @@
+xtensa-lx106-elf-strip.exe -g .\diamond.ino.elf -o diamond.elf
